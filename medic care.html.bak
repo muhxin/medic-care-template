@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title> medic care </title>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="medic-care.css" type="text/css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"> </head>
+
+<body>
+	<header>
+		<div class="section">
+			<div class="a">
+				<div class="logo"> <img src="img/logo.png" alt=""> </div>
+				<div class="nav">
+					<ul>
+						<li> <a href="">Home</a> </li>
+						<li> <a href="">About</a> </li>
+						<li> <a href="">Timeline</a> </li>
+						<li> <a href="">Testimonials</a> </li>
+						<li> <a href="">Booking</a> </li>
+						<li> <a href="">Contact</a> </li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</header>
+	<div class="container">
+		<div class="b">
+			<div class="div-box">
+				<h2>Better <span class="blink_me">haelthdays links</span> </h2>
+				<p>Medic Care is a Bootstrap 5 Template provided by TemplateMo website. Credits go to FreePik and RawPixel for images used in this template.</p>
+				<div class="d-box1">
+					<input type="text" value="learn more" class="btn"><strong>Phone:09234556677</strong>
+				</div>
+			</div>
+		</div>
+	</div>
+	<section>
+		<div class="container-e">
+			<div class="d">
+				<h1>Meet Dr. Carson</h1>
+				<p>Protect yourself and others by wearing masks and washing hands frequently. Outdoor is safer than indoor for gatherings or holding events. People who get sick with Coronavirus disease (COVID-19) will experience mild to moderate symptoms and recover without special treatments.</p>
+				<p>You can feel free to use this CSS template for your medical profession or health care related websites. You can support us a little via PayPal if this template is good and useful for your work.</p>
+			</div>
+			<div class="f">
+				<p class="fe"> <span class="fn">12</span><strong>Years
+													    <br> of Experiences</strong></p>
+			</div>
+		</div>
+	</section>
+	<section>
+		<div class="row">
+			<div class="column"> <img src="img/pic1.jpg" style="width:100%"> </div>
+			<div class="column"> <img src="img/pic2.jpg" style="width:100%"> </div>
+		</div>
+	</section>
+	<br>
+	<br>
+	<h1>Our Timeline</h1>
+	<section>
+		<div class="v">
+			<div class="u">
+				<h1>Get the vaccine</h1>
+				<p> Donec facilisis urna dui, a dignissim mauris pretium a Quisque quis libero fermentum, tempus felis eu, consequat nibh.</p>
+			</div>
+			<div class="t"> <i style="font-size:24px" class="fa">&#xf05d;</i> </div>
+			<div class="q">
+				<P>2021-07-31 Saturday</p>
+			</div>
+		</div>
+	</section>
+	<section>
+		<div class="g">
+			<div class="g1">
+				<p>2021-07-15 Thursday</p>
+			</div>
+			<div class="g2"> <i style="font-size:24px" class="fa">&#xf02d;</i> </div>
+			<div class="g3">
+				<h1>Consulting your health</h1>
+				<p>You are fully permitted to use this template for your commercialor personal website. You are not permitted to redistribute the template ZIP file for a download purpose on any other Free CSS collection website.</p>
+			</div>
+		</div>
+	</section>
+	<section>
+		<div class="s0">
+			<div class="s1">
+				<h1>Certified Nurses</h1>
+				<p>Phasellus eleifend, urna interdum congue viverra, arcu neque ultrices ligula, id pulvinar nisi nibh et lacus. Vivamus gravida, ipsum non euismod tincidunt, sapien elit fermentum mi, quis iaculis enim ligula at arcu.</p>
+			</div>
+			<div class="s2"> <i style="font-size:24px" class="fa">&#xf2bc;</i> </div>
+			<div class="s3">
+				<p>2021-06-28 Monday</p>
+			</div>
+		</div>
+	</section>
+	<section>
+		<div class="z">
+			<div class="x">
+				<P>2021-05-30 Sunday</p>
+			</div>
+			<div class="i"> <i style="font-size:24px" class="fa">&#xf0ac;</i> </div>
+			<div class="y">
+				<h1>Covid-19 Hospitals</h1>
+				<p>Fusce vestibulum euismod nulla sed ultrices. Praesent rutrum nulla vel sapien euismod, quis tempus dui placerat.
+					<br>
+					<br> Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Maecenas faucibus mollis interdum. Donec ullamcorper nulla non metus auctor fringilla</p>
+			</div>
+		</div>
+	</section>
+	<section>
+		<div class="w">
+			<div class="w1">
+				<h1>Freelance Nursing</h1>
+				<p>If you need a working contact form that submits email to your inbox, please visit our contact page for more information.</p>
+			</div>
+			<div class="w2"> <i style="font-size:24px" class="fa">&#xf007;</i> </div>
+			<div class="w3">
+				<p>2021-05-18 Tuesday</p>
+			</div>
+		</div>
+	</section>
+							
+			
+	<section>
+		<h1>Our Patients</h1>
+		<div class="flex-b">
+			<div id="main">
+				<div class="star"> <img src="./img/star-1.png" /> <img src="./img/star-1.png" /> <img src="./img/star-1.png" /> <img src="./img/star-1.png" /> <img src="./img/half-star.png" /> </div>
+				<div class="h">
+					<h2>Great servics</h2>
+					<div class="para">
+						<p>You are fully permitted to use this template for your commercial or personal website. You are not permitted</p>
+					</div>
+				</div>
+				<div class="avtar"> <img src="img/image17.jpg" alt="Avatar">
+					<div class="span"> Ben Walker:Recovred </div>
+				</div>
+			</div>
+		</div>
+		<div class="flex-b2">
+			<div class="p" style="flex-grow:2" ;>
+				<div class="star1"> <img src="./img/star-1.png" /> <img src="./img/star-1.png" /> <img src="./img/star-1.png" /> <img src="./img/star-1.png" /> <img src="./img/half-star.png" /> </div>
+				<div class="h">
+					<h2>Docter cares every one</h2>
+					<div class="para">
+						<p>You are fully permitted to use this template for your commercial or personal website. You are not permitted You are fully permitted to use this template for your commercial or personal website. You are not permitted</p>
+					</div>
+				</div>
+				<div>
+					<div class="avtar"> <img src="img/image16.png" alt="Avatar">
+						<div class="span"> James John:Patient </div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="flex-b3">
+			<div class="k">
+				<div class="star"> <img src="./img/star-1.png" /> <img src="./img/star-1.png" /> <img src="./img/star-1.png" /> <img src="./img/star-1.png" /> <img src="./img/half-star.png" /> </div>
+				<div class="h">
+					<h2>Best health care</h2>
+					<div class="para">
+						<p> Donec facilisis urna dui, a dignissim mauris pretium a. Quisque quis libero fermentum, tempus felis eu, consequat nibh.</p>
+					</div>
+				</div>
+				<div>
+					<div class="avtar"> <img src="img/image20.png" alt="Avatar">
+						<div class="span">Lura: Almost recoverd </div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<br>
+	<section>
+		<h1>Book an appointment</h1>
+		<div class="d-container">
+			<form>
+				<div class="form-1">
+					<input type="text" name="" placeholder="Full name">
+					<input type="text" name="" placeholder="Email Address">
+					<br>
+					<input type="text" name="" placeholder="Phone: 345-123-678">
+					<input type="DATE" id="start" name="starting-date" value="(DATE)" min="(DATE)" max="(DATE)">
+				</div>
+				    <label for="subject"></label>
+				    <textarea id="subject" name="subject" placeholder="Additional Message" style="height:150px"></textarea>
+				    <br>
+				    <button type="text" class="btn-1">Book Now</button>
+			</form>
+		</div>
+	</section>
+	<footer>
+		<div class="c">
+			<div class="r">
+				<section>
+					<div class="f-1">
+						<div class="h-1">
+							<h1>Opening Hours</h1> <span>Sunday : Closed</span>
+						</div>
+						<div class="f2">
+							<p>Monday, Tuesday - Firday<span> 8:00 AM - 3:30 PM</span></p>
+						</div>
+						<div class="f3">
+							<p>Saturday <span>10:30 AM - 5:30 PM</span></p>
+						</div>
+					</div>
+				</section>
+				<section>
+					<div class="h1">
+						<div class="h-2">
+							<h1>Our Clinic</h1>
+						</div>
+						<div class="h-3">
+							<p>hello@company.co</p>
+						</div>
+						<div class="h-4">
+							<p>123 Digital Art Street, San Diego, CA 92123</p>
+						</div>
+					</div>
+				</section>
+				<section>
+					<div class="s">
+						<h1>Social</h1>
+						<div class="fonts">
+						 <i style="font-size:24px" class="fa">&#xf230;</i> 
+						 <i style="font-size:24px" class="fa">&#xf099;</i> 
+						 <i style="font-size:24px" class="fa">&#xf16d;</i> 
+						 <i style="font-size:24px" class="fa">&#xf16a;</i>
+					    </div>
+					</div>
+				</section>
+				<section>
+					<div class="cop">
+						<div class="copy">
+							<p>Copyright © Medic Care 2021</p>
+						</div>
+						<div class="d3">
+							<p> Design: TemplateMo</p>
+						</div>
+					</div>
+				</section>
+			</div>
+		</div>
+	</footer>
+</body>
+
+</html>
